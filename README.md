@@ -22,7 +22,7 @@
             <h2>Contato</h2>
             <ul>
                 <li>GitHub: <a href="https://github.com/Raduzinho914" target="_blank">Raduzinho914</a></li>
-                <li>Email: seuemail@example.com</li>
+                <li>Email: rafael.gsilva@sempreceub.com</li>
             </ul>
         </section>
     </main>
