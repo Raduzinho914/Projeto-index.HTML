@@ -44,7 +44,7 @@
 
   <h2>Rafael Silva | Portfólio</h2>
   <div class="section">
-    <p>Estudante de Engenharia de Software na faculdade CEUB</p>
+    <p>👨‍🎓 Estudante de Engenharia de Software na faculdade CEUB</p>
     <p>💻 Procurando aprender novas tecnologias e conhecimentos para me tornar um profissional melhor</p>
     <p>🌐 Formado na escola Thomas Jefferson, fluente em inglês</p>
   </div>
