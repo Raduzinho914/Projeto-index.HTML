@@ -6,9 +6,9 @@ Rafael Silva | Portfólio
 📬 Contato
 📧 rafael.gsliiva@sempreceub.com
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/rafael-carvalho-goncalves-da-silva-814253359/
 
-💻 GitHub
+💻 GitHub: https://github.com/Raduzinho914
 
 🧠 Sobre Mim
 Meu nome é Rafael Silva, tenho 18 anos e sou estudante de engenharia de software.
