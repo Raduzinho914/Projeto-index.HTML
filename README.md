@@ -66,11 +66,12 @@
   <h2>Habilidades</h2>
   <div class="section">
     <ul>
-      <li><strong>Linguagens:</strong> HTML, Phyton </li>
-      <li><strong>Ferramentas:</strong> Git, Visual Studio Code, Canva </li>
+      <li><strong>Linguagens:</strong> HTML, CSS, JavaScript</li>
+      <li><strong>Ferramentas:</strong> Git, Visual Studio Code, Figma</li>
       <li><strong>Idiomas:</strong> Português (nativo), Inglês (fluente)</li>
     </ul>
   </div>
 
 </body>
 </html>
+
