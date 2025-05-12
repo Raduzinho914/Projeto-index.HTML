@@ -1,75 +1,23 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Rafael Silva | Portfólio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #1a73e8;
-    }
-    h2 {
-      margin-top: 40px;
-      border-top: 1px solid #ccc;
-      padding-top: 20px;
-    }
-    a {
-      text-decoration: none;
-      color: #1a73e8;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    ul li {
-      margin-bottom: 5px;
-    }
-    strong {
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
+Rafael Silva | Portfólio
+👨‍🎓 Estudante de Engenharia de Software na faculdade CEUB
+💡 Procurando aprender novas tecnologias e conhecimentos para me tornar um profissional melhor
+🌐 Formado na escola Thomas Jefferson, fluente em inglês
 
-  <h1>Rafael Silva</h1>
+📬 Contato
+📧 rafael.gsliiva@sempreceub.com
 
-  <h2>Rafael Silva | Portfólio</h2>
-  <div class="section">
-    <p>👨‍🎓 Estudante de Engenharia de Software na faculdade CEUB</p>
-    <p>💻 Procurando aprender novas tecnologias e conhecimentos para me tornar um profissional melhor</p>
-    <p>🌐 Formado na escola Thomas Jefferson, fluente em inglês</p>
-  </div>
+💼 LinkedIn
 
-  <h2>Contato</h2>
-  <div class="section">
-    <ul>
-      <li>📧 <a href="mailto:rafael.gsilva@sempreceub.com">rafael.gsilva@sempreceub.com</a></li>
-      <li>🔗 <a href="https://www.linkedin.com/in/rafael-carvalho-goncalves-da-silva-814253359/" target="_blank">LinkedIn</a></li>
-      <li>📁 <a href="https://github.com/Raduzinho914" target="_blank">GitHub</a></li>
-    </ul>
-  </div>
+💻 GitHub
 
-  <h2>Sobre Mim</h2>
-  <div class="section">
-    <p>Meu nome é Rafael Silva, tenho 18 anos e sou estudante de engenharia de software. Sempre fui apaixonado por videogames e pela área de tecnologia, e nesse momento procuro me desenvolver como programador.</p>
-  </div>
+🧠 Sobre Mim
+Meu nome é Rafael Silva, tenho 18 anos e sou estudante de engenharia de software.
+Sempre fui apaixonado por videogames e pela área de tecnologia, e nesse momento procuro me desenvolver como programador.
 
-  <h2>Habilidades</h2>
-  <div class="section">
-    <ul>
-      <li><strong>Linguagens:</strong> HTML, CSS, JavaScript</li>
-      <li><strong>Ferramentas:</strong> Git, Visual Studio Code, Figma</li>
-      <li><strong>Idiomas:</strong> Português (nativo), Inglês (fluente)</li>
-    </ul>
-  </div>
+🛠️ Habilidades
+Linguagens: HTML, CSS, JavaScript
 
-</body>
-</html>
+Ferramentas: Git, Visual Studio Code, Figma
+
+Idiomas: Português (nativo), Inglês (fluente)
+
