@@ -2,32 +2,75 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   Raduzinho914 - Página Pessoal
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <title>Rafael Silva | Portfólio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #1a73e8;
+    }
+    h2 {
+      margin-top: 40px;
+      border-top: 1px solid #ccc;
+      padding-top: 20px;
+    }
+    a {
+      text-decoration: none;
+      color: #1a73e8;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      margin-bottom: 5px;
+    }
+    strong {
+      font-weight: bold;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Olá, eu sou Rafael Silva </h1>
-        <p>Estudante de Engenharia de Software na Faculdade CEUB de Brasília</p>
-    </header>
-    <main>
-        <section>
-            <h2>Sobre Mim</h2>
-            <p>Formado pela Casa Thomas Jefferson com fluência em inglês.</p>
-            <p>Tenho grande interesse em aprender novas tecnologias e funcionalidades no mundo da programação.</p>
-        </section>
-        <section>
-            <h2>Contato</h2>
-            <ul>
-                <li>GitHub: <a href="https://github.com/Raduzinho914" target="_blank">Raduzinho914</a></li>
-                <li>Email: rafael.gsilva@sempreceub.com</li>
-            </ul>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2025 Raduzinho914</p>
-    </footer>
+
+  <h1>Rafael Silva</h1>
+
+  <h2>Rafael Silva | Portfólio</h2>
+  <div class="section">
+    <p>Estudante de Engenharia de Software na faculdade CEUB</p>
+    <p>💻 Procurando aprender novas tecnologias e conhecimentos para me tornar um profissional melhor</p>
+    <p>🌐 Formado na escola Thomas Jefferson, fluente em inglês</p>
+  </div>
+
+  <h2>Contato</h2>
+  <div class="section">
+    <ul>
+      <li>📧 <a href="mailto:rafael.gsilva@sempreceub.com">rafael.gsilva@sempreceub.com</a></li>
+      <li>🔗 <a href="https://www.linkedin.com/in/rafael-carvalho-goncalves-da-silva-814253359/" target="_blank">LinkedIn</a></li>
+      <li>📁 <a href="https://github.com/Raduzinho914" target="_blank">GitHub</a></li>
+    </ul>
+  </div>
+
+  <h2>Sobre Mim</h2>
+  <div class="section">
+    <p>Meu nome é Rafael Silva, tenho 18 anos e sou estudante de engenharia de software. Sempre fui apaixonado por videogames e pela área de tecnologia, e nesse momento procuro me desenvolver como programador.</p>
+  </div>
+
+  <h2>Habilidades</h2>
+  <div class="section">
+    <ul>
+      <li><strong>Linguagens:</strong> HTML, CSS, JavaScript (pode adicionar mais conforme seu conhecimento)</li>
+      <li><strong>Ferramentas:</strong> Git, Visual Studio Code, Figma (edite conforme necessário)</li>
+      <li><strong>Idiomas:</strong> Português (nativo), Inglês (fluente)</li>
+    </ul>
+  </div>
+
 </body>
 </html>
